@@ -47,6 +47,9 @@ p {
 .card__image a:hover {
   opacity: 1;
 }
+.card__image a:focus {
+  opacity: 1;
+}
 .card__body {
   margin: 15px 0;
 }
